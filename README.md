@@ -11,6 +11,20 @@ A console-based C++ project that simulates a simple market environment. Users ca
 - **Bookstore** — Browse and purchase books from Mathematics, English, and Programming categories
 - **Combined Billing** — Tracks spending across all shops and displays a final market bill
 
+
+---
+
+## Preview
+
+    WELCOME TO MARKET
+
+    Which type of shopping you want to do?
+    1 for Garment shop
+    2 for Bakery shop
+    3 for Bookstore shop
+    0 for Your total bill
+
+
 ---
 
 ## How to Run
